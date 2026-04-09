@@ -5,7 +5,7 @@
 
 - 🧩 Interested in reverse engineering and game hacking 
 - 🕹️ Exploring game mechanics and protection systems  
-- ⚙️ Experimenting with c++ and backend tools  
+- ⚙️ Experimenting with C++ and backend tools  
 - 📖 Learning something new every day  
 - 🚀 Building projects to sharpen my skills
 
@@ -29,14 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="VS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
 </div>
-
-###
-
-### 📈 Github Status
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=8" />
-</p>
 
 ###
 
